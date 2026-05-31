@@ -2,9 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/technotrollpro?label=Follow&style=social)](https://github.com/technotrollpro)
 
-**Мастер на все руки с 10-летним стажем.**  
-В сети меня знают как **technotroll** или **technotrollpro** — этот псевдонимы со мной уже больше десяти лет.
-
 ---
 
 ## 🧰 Чем занимаюсь
